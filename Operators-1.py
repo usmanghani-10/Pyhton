@@ -1,0 +1,7 @@
+print("Addition : ", 39+21)
+print("Difference : ", 39-21)
+print("Product : ",39*21)
+print("Exponential : ",39**21)
+print("Division : ",39/21)
+print("Double Division : ",39//21)
+print("Modulus : ",39%21)
